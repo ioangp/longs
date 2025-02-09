@@ -11,6 +11,10 @@ Becomes:
 Made for fun and to experiment with C.
 
 ## Usage
-````
+```
+gcc -o longs longs.c
+```
+Then
+```
 ./longs.exe input.txt output.txt
-````
+```
